@@ -22,6 +22,8 @@ Traditional settlement and reconciliation systems often suffer from latency, ope
 - [whitepaper.md](whitepaper.md): concise institutional-style overview
 - [docs/architecture.md](docs/architecture.md): technical framing and formulas
 - [examples/reputational_trust_model.py](examples/reputational_trust_model.py): small proof-of-concept simulation
+- [manuscript/manuscript.md](manuscript/manuscript.md): submission-ready manuscript draft for journal-style formatting
+- [manuscript/title_page.md](manuscript/title_page.md): separate title page for submission
 
 ## Suggested use in an article
 
