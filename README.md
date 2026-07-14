@@ -1,30 +1,32 @@
 # spiralblockchain
 
-This repository contains the core implementation and theoretical framework for a quasicrystalline blockchain architecture, alongside a public-facing proposal for a permissioned financial infrastructure named SpiralLedger.
+This repository contains the core implementation and theoretical framework for a quasicrystalline blockchain architecture, alongside a public-facing proposal for a governance-oriented and aperiodic digital infrastructure.
 
 ## Project focus
 
-SpiralLedger is a conceptual infrastructure proposal for regulated financial settlement, designed to improve efficiency, resilience, and auditability in high-complexity markets such as OTC derivatives.
+The present work develops a conceptual and technical framework for integrating quasi-crystalline geometry into decentralized systems, with emphasis on governance, routing resilience, security, and photonic hardware integration.
 
 ### Why it matters
 
-Traditional settlement and reconciliation systems often suffer from latency, operational fragmentation, and elevated counterparty risk. SpiralLedger proposes a non-linear, reputation-governed topology that aims to reduce bottlenecks while preserving governance, traceability, and regulatory compatibility.
+Traditional digital infrastructures often rely on periodic layouts, centralized coordination, and predictable routing patterns. The proposed architecture instead uses aperiodic organization to improve resilience, reduce bottlenecks, and create stronger structural defenses against traffic analysis and localized failures.
 
 ### Core ideas
 
-- Permissioned participation for regulated institutions
-- Non-linear validation topology for reduced congestion
-- Reputation-based trust mechanism for participant oversight
-- Use case focus on OTC derivatives lifecycle management
+- Quasi-crystalline topology for resilient network organization
+- Aperiodic Load Balancing (APLB) as a local routing mechanism
+- Governance properties emerging from network geometry rather than hierarchy
+- Integration with photonic hardware for future secure and efficient systems
 
 ## Repository contents
 
-- [whitepaper.md](whitepaper.md): concise institutional-style overview
+- [QUASICRYSTALLINE_BLOCKCHAIN_PAPER.md](QUASICRYSTALLINE_BLOCKCHAIN_PAPER.md): full narrative paper draft
+- [docs/executive_summary.md](docs/executive_summary.md): concise executive summary for presentation or outreach
+- [docs/whitepaper_synthesis.md](docs/whitepaper_synthesis.md): synthesis document for GitHub or whitepaper-style use
 - [docs/architecture.md](docs/architecture.md): technical framing and formulas
-- [examples/reputational_trust_model.py](examples/reputational_trust_model.py): small proof-of-concept simulation
-- [manuscript/manuscript.md](manuscript/manuscript.md): submission-ready manuscript draft for journal-style formatting
-- [manuscript/title_page.md](manuscript/title_page.md): separate title page for submission
+- [examples/reputational_trust_model.py](examples/reputational_trust_model.py): proof-of-concept simulation
+- [manuscript/quasicrystalline_governance_paper.md](manuscript/quasicrystalline_governance_paper.md): manuscript-style draft
+- [whitepaper.md](whitepaper.md): concise institutional-style overview
 
-## Suggested use in an article
+## Suggested use
 
-This repository can be referenced as a public prototype and conceptual framework for a permissioned financial infrastructure designed around trust, efficiency, and operational resilience.
+This repository can be used as a public-facing prototype, conceptual paper, and technical reference for a new class of aperiodic and governance-oriented digital infrastructures.
